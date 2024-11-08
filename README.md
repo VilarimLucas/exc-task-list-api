@@ -1,13 +1,6 @@
 # exc-task-list-api   
 
-API desenvolvida na aula de Teste e qualidade de Software com os elementos do widget Task List do projeto EX Ctrl ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
+API desenvolvida na aula de Teste e qualidade de Software com os elementos do widget Task List do projeto EX Ctrl 
 
 
 ## Tecnologias Utilizadas
