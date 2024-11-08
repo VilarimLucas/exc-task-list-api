@@ -1,0 +1,13 @@
+# Ignorar o HTML na detecção de linguagem
+*.html linguist-detectable=false
+
+# Configurar arquivos JavaScript como principais
+*.js linguist-detectable=true
+
+# Ignorar arquivos de configuração JSON na detecção de linguagem
+*.json linguist-detectable=false
+
+# Forçar linguagens específicas para aparecerem como principais
+package.json linguist-language=JavaScript
+server.js linguist-language=JavaScript
+app.js linguist-language=JavaScript
