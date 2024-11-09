@@ -16,7 +16,7 @@ API desenvolvida na aula de Teste e qualidade de Software com os elementos do wi
 
 ## Requisitos
 
--   ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) (versão mínima recomendada: 14.x)
+- ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) (versão mínima recomendada: 14.x)
 - ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) (ou **yarn**) instalado
 - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) rodando localmente ou em um serviço de nuvem
 
